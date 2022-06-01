@@ -11,8 +11,6 @@ body {
   text-align: center;
   margin: 10px 10px;
   background-color: rgb(255, 232, 201);
-  background-image: url(/img/images.jfif);
-  background-repeat: repeat-y;
 }
 p {
   font-style: italic;
@@ -25,7 +23,7 @@ h3 {
 }
 div {
   margin: 10px 10px;
-  padding: 10px 10px;
+  padding: 10px 40px;
 }
 img {
   border-radius: 1%;
